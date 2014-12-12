@@ -1,0 +1,13 @@
+PicardOS
+
+This is my (very) basic toy operating system. At the moment I have only hacked
+together pieces of various tutorials (referenced below) and the result is a 
+kernel which can be boot, print to the tty and catch standard processor
+exceptions.
+
+I'm not currently putting any build instructions because getting a cross
+compiler setup is more than I want to discuss in this documents.
+
+http://www.osdever.net/bkerndev/Docs/intro.htm
+http://wiki.osdev.org/Bare_Bones
+http://wiki.osdev.org/Meaty_Skeleton
